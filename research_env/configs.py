@@ -9,3 +9,5 @@ class data_configs:
         'train':0.65,
         'val':0.85
     }
+    steps_to_predic = 4
+    input_length = 14
