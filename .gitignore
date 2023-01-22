@@ -1,1 +1,4 @@
 predictions_csvs/
+__pycache__/
+models_hpt/
+.ipynb_checkpoints/
