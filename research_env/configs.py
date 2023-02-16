@@ -13,6 +13,7 @@ class data_configs:
     input_length = 14
     best_error = 1.1
     save_predictions_path = 'predictions_csvs'
+    save_bid_predictions_path = 'predictions_bids'
     save_model_path = 'models_hpt'
     optuna_trials = 60
 
